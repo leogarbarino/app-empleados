@@ -1,0 +1,30 @@
+
+
+h4{
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+li{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-left: 450px;
+    
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+
+img{
+    width: 60%;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 220px;
+    margin-right: 220px;
+}

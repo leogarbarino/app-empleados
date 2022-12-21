@@ -1,0 +1,15 @@
+
+ .nav-link{
+    margin-right: 120px;
+    margin-left: 130px; 
+    color: blue;  
+ }
+
+ .nav-link:hover{
+    color:rgb(3, 3, 155);
+    font-weight: bold;
+}
+
+
+
+
